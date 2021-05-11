@@ -1,0 +1,39 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+title: Misael Pedro
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Portfólio de Projetos  
+
+description: Stylish Jekyll Theme
+author:
+  name: Misael Pedro C. Alves
+  email: misael.alves97@gmail.com
+  github: misaelpedro
+# twitter: dbtek
+# pinterest: asd123
+  linkedin: misael-engenharia
+  bio: Olá, meu nome é Misael sou formado em Engenharia e atualmente estou me especializando em Data Science & Analytics. 
+# email_md5: 726351295ec82e145928582f595aa3aa
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+sidebar_background_image: "https://misaelpedro.github.io/fundo_side_bar.jpg"
+BASE_PATH:"https://misaelpedro.github.io"
+
+plugins:
+  - jekyll-paginate
