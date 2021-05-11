@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Misael Pedro</title>
+		<description>Stylish Jekyll Theme</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Algoritmo kNN(K vizinhos mais próximos)</title>
+				<description>&lt;h3 id=&quot;nesse-notebook-comento-passo-a-passo-a-implementação-do-algoritmo-knn-from-scratch-esse-algoritmo-é-tipicamente-usado-para-tarefas-de-classificação-o-principal-parâmetro-é-o-k-que-definirá-quantos-vizinhos-serão-selecionados-utilizando-o-cálculo-da-distância-euclidiana-calcula-se-a-distância-entre-um-ponto-p1-de-classe-desconhecida-e-n-outros-pontos-de-classes-conhecidas-os-k-rótulos-dos-pontos-com-menor-distância-euclidiana-em-relação-a-p1-serão-selecionados-e-o-rotulo-mais-comum-maior-repetição-será-atribuído-a-p1-os-dados-utilizados-são-do-dataset-iris-obtidos-através-da-biblioteca-sklearn&quot;&gt;Nesse notebook comento passo a passo a implementação do algoritmo kNN from scratch, esse algoritmo é tipicamente usado para tarefas de classificação, o principal parâmetro é o “k” que definirá quantos vizinhos serão selecionados. Utilizando o cálculo da distância euclidiana, calcula-se a distância entre um ponto P1 de classe desconhecida e N outros pontos de classes conhecidas. Os k rótulos dos pontos com menor distância euclidiana em relação a P1 serão selecionados e o rotulo mais comum (maior repetição) será atribuído a P1. Os dados utilizados são do Dataset Iris, obtidos através da biblioteca sklearn.&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1531424125/Knn_k1_z96jba.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h5 align=&quot;center&quot;&gt;Exemplificação algoritmo kNN&lt;/h5&gt;
+
+&lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/misaelpedro/kNN-from-Scratch&quot;&gt; Clique para acessar.&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 10 May 2021 00:00:00 -0300</pubDate>
+				<link>/knn%20from%20scratch/python/machine%20learning/an%C3%A1lise%20de%20dados/2021/05/10/Algoritmo-kNN(K-vizinhos-mais-pr%C3%B3ximos).html</link>
+				<guid isPermaLink="true">/knn%20from%20scratch/python/machine%20learning/an%C3%A1lise%20de%20dados/2021/05/10/Algoritmo-kNN(K-vizinhos-mais-pr%C3%B3ximos).html</guid>
+			</item>
+		
+	</channel>
+</rss>
