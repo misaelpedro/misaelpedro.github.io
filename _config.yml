@@ -33,7 +33,7 @@ tags_path: tags.html
 
 # set it as url of an image
 sidebar_background_image: "https://misaelpedro.github.io/fundo_side_bar.jpg"
-BASE_PATH:"https://misaelpedro.github.io"
+BASE_PATH: "https://misaelpedro.github.io"
 
 plugins:
   - jekyll-paginate
