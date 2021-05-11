@@ -7,7 +7,7 @@ fullview: true
 comments: true
 ---
 
-### Nesse notebook comento passo a passo a implementação do algoritmo kNN from scratch, esse algoritmo é tipicamente usado para tarefas de classificação, o principal parâmetro é o "k" que definirá quantos vizinhos serão selecionados. Utilizando o cálculo da distância euclidiana, calcula-se a distância entre um ponto P1 de classe desconhecida e N outros pontos de classes conhecidas. Os k rótulos dos pontos com menor distância euclidiana em relação a P1 serão selecionados e o rotulo mais comum (maior repetição) será atribuído a P1. Os dados utilizados são do Dataset Iris, obtidos através da biblioteca sklearn.
+### Nesse notebook comento passo a passo a implementação do algoritmo kNN from scratch, esse algoritmo é tipicamente usado para tarefas de classificação, o principal parâmetro é o "k" que definirá quantos vizinhos serão selecionados. Utilizando o cálculo da distância euclidiana, calcula-se a distância entre um ponto P1 de classe desconhecida e N outros pontos de classes conhecidas. Os k rótulos dos pontos com menor distância euclidiana em relação a P1 serão selecionados e o rótulo mais comum (maior repetição) será atribuído a P1. O Dataset utilizado contém a classificação de 3 tipos de Íris e a medida de 4 atributos, foi obtido através da biblioteca sklearn.
 
 
 <p align="center">
